@@ -1,5 +1,17 @@
-//colors
+$minWidth: 320;
+$maxWidth: 1920;
+
+$maxContainerWidth: 856;
+$minContainerWidth: 320;
 
 //breakpoints
-$deskTopScreenWidth: 1920px;
-$mobileScreenWidth: 320px;
+$md1: $maxContainerWidth + 12;
+$md2: 991.98;
+$md3: 767.98;
+$md4: 479.98;
+
+//Colors
+$primaryColor: #ff6464;
+$secondaryColor: #00a8cc;
+$darkColor: #21243d;
+$lightColor: #8695a4;
